@@ -1,3 +1,4 @@
 .env
+.htpasswd
 .idea/
 volumes/n8n_data/
